@@ -9,30 +9,5 @@
     "group:all",
     "replacements:all",
     "workarounds:all"
-  ],
-  "packageRules": [
-    {
-      "groupName": "Support Dependencies",
-      "labels": [
-        "support-deps"
-      ],
-      "commitMessageTopic": "support-deps",
-      "matchPackageNames": [
-        "*"
-      ]
-    },
-    {
-      "groupName": "Package Dependencies",
-      "labels": [
-        "package-deps"
-      ],
-      "commitMessageTopic": "package-deps",
-      "matchPackageNames": ["!/^mcr\\.microsoft\\.com\\/playwright$/"],
-      "matchDatasources": [
-        "docker",
-        "helm",
-        "git-tags"
-      ]
-    }
   ]
 }
