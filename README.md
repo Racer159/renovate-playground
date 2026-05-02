@@ -12,13 +12,13 @@ UDS Core Version (GHCR): 1.0.0-upstream
 Zarf Version: 0.74.0
 
 <!-- renovate: datasource=docker depName=ghcr.io/zarf-dev/packages/init -->
-Zarf Init Package Version: v0.74.0
+Zarf Init Package Version: v0.75.1
 
 <!-- renovate: datasource=github-tags depName=stefanprodan/podinfo -->
 Podinfo Version (GitHub): 6.4.0
 
 <!-- renovate: datasource=docker depName=ghcr.io/stefanprodan/podinfo -->
-Podinfo Version (GHCR): 6.4.0
+Podinfo Version (GHCR): 6.11.2
 
 <!-- renovate: datasource=docker depName=stefanprodan/podinfo -->
-Podinfo Version (Docker Hub): 6.4.0
+Podinfo Version (Docker Hub): 6.11.2
