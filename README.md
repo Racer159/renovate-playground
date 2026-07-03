@@ -23,5 +23,5 @@ Podinfo Version (GHCR): 6.4.0
 <!-- renovate: datasource=docker depName=stefanprodan/podinfo -->
 Podinfo Version (Docker Hub): 6.4.0
 
-<!-- renovate: datasource=docker depName=ghcr.io/zarf-dev/packages/init -->
+<!-- renovate-slash: datasource=docker depName=ghcr.io/zarf-dev/packages/init -->
 certificateIdentity: https://github.com/zarf-dev/zarf/.github/workflows/release.yml@refs/tags/v0.78.0
