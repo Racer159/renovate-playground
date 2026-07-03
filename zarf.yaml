@@ -4,7 +4,7 @@ metadata:
   description: Example showcasing multiple ways to deploy helm charts
   version: 0.0.1
   annotations:
-      # renovate: datasource=docker depName=ghcr.io/zarf-dev/packages/init
+      # renovate-slash: datasource=docker depName=ghcr.io/zarf-dev/packages/init
       certificateIdentity: https://github.com/zarf-dev/zarf/.github/workflows/release.yml@refs/tags/v0.78.0
 
 components:
